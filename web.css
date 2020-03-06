@@ -1,0 +1,26 @@
+ li{
+	float:right;
+	padding:20px;
+	margin:10px;
+	
+}
+header {
+  color: #fff;
+  height: 90px;
+  background-color:black;
+
+}
+body{
+	background-color:purple;
+	color:white;
+}
+.about h3{
+	font-family:Helvetica;
+	letter-spacing:3px;
+	
+}
+.home{
+	font-family:Times;
+	letter-spacing: 2px;
+}
+
